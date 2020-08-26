@@ -4,10 +4,14 @@
 
 ## I'm B.Tech 3rd yr CSE, WEB / APP Developer !
 
-- 🔭 I’m currently working at [TorcInfotech][website]!
+- 🔭 I’m currently working at [TorcInfotech][torc]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m Part of DuoDevOps
 - ⚡ Fun fact: I love MuZic 🎧
+
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31hdkn353qetcgxtrugijtpxu32i)
+
 
 ### Connect with me:
 
