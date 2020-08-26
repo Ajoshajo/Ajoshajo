@@ -10,7 +10,8 @@
 - ⚡ Fun fact: I love MuZic 🎧
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31hdkn353qetcgxtrugijtpxu32i)
+[<img src="https://spotify-api-two.vercel.app
+/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31hdkn353qetcgxtrugijtpxu32i)
 
 
 ### Connect with me:
