@@ -1,6 +1,6 @@
 ### Hi there, I'm Ajosh J 👋
 
-[![Website](https://img.shields.io/website?label=Ajosh.ME&style=for-the-badge&url=http%3A%2F%2Fajosh.me)](http://ajosh.me)
+[![Website](https://img.shields.io/website?label=Ajosh.ME&style=for-the-badge&url=http://ajosh.me)](http://ajosh.me)
 
 ## I'm B.Tech 3rd yr CSE Student, WEB / APP Developer !
 
