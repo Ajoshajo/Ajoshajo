@@ -10,8 +10,7 @@
 - ⚡ Fun fact: I love MuZic 🎧
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-api-two.vercel.app
-/api/spotify" alt="Ajosh Ajo Spotify Playing" width="350" />](https://open.spotify.com/user/31hdkn353qetcgxtrugijtpxu32i)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hdkn353qetcgxtrugijtpxu32i&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31hdkn353qetcgxtrugijtpxu32i&redirect=true)
 
 
 ### Connect with me:
