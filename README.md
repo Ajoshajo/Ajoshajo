@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=Ajosh.ME&style=for-the-badge&url=http://ajosh.me)](http://ajosh.me)
 
-## I'm B.Tech Final yr CSE Student, WEB / APP Developer !
+## FullStack Developer !
 
 - 🔭 I’m currently working at [TorcInfotech][torc]!
 - 🌱 I’m currently learning everything 😼
