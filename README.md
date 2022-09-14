@@ -4,13 +4,15 @@
 
 ## FullStack Developer !
 
-- 🔭 I’m currently working at [TorcInfotech][torc]!
+- 🔭 I’m currently working at [2hats Logic Solutions][2hats]!
 - 🌱 I’m currently learning everything 😼
 - 👯 I’m a Part of DuoDevOps
 - ⚡ Fun fact: I love MuZic 🎧
 
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hdkn353qetcgxtrugijtpxu32i&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31hdkn353qetcgxtrugijtpxu32i&redirect=true)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hdkn353qetcgxtrugijtpxu32i)
 
 
 ### Connect with me:
@@ -23,8 +25,8 @@
 
 <br />
 
-[website]: http://ajosh.me
-[torc]: https://torcinfotech.in
+[website]: https://ajosh.me
+[2hats]: https://2hatslogic.com
 [twitter]: https://twitter.com/ajosh_ajo
 [youtube]: https://www.youtube.com/channel/UCcKUDvtPkivMV7hfFd1fqtQ
 [instagram]: https://www.instagram.com/_.ajo_sh.__.ajo._/
