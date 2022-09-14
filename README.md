@@ -9,6 +9,8 @@
 - 👯 I’m a Part of DuoDevOps
 - ⚡ Fun fact: I love MuZic 🎧
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajoshajo&&show_icons=true&theme=graywhite )
+
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hdkn353qetcgxtrugijtpxu32i&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31hdkn353qetcgxtrugijtpxu32i&redirect=true)
 
