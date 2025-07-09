@@ -1,10 +1,10 @@
 ### Hi there, I'm Ajosh J 👋
 
-[![Website](https://img.shields.io/website?label=Ajosh.ME&style=for-the-badge&url=http://ajosh.me)](http://ajosh.me)
+[![Website](https://img.shields.io/website?label=Ajosh.ME&style=for-the-badge&url=https://ajosh.me)](https://ajosh.me)
 
 ## FullStack Developer !
 
-- 🔭 I’m currently working at [2hats Logic Solutions][2hats]!
+- 🔭 I’m currently working at [2hats](https://2hatslogic.com)!
 - 🌱 I’m currently learning everything 😼
 - 👯 I’m a Part of DuoDevOps
 - ⚡ Fun fact: I love MuZic 🎧
